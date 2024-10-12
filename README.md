@@ -1,1 +1,1 @@
-Due to privacy issue, only the reports are made public (`projects/`). The [remaining codes](https://github.com/Ruiying-Ma/yao-db-s23-private.git) are private. The framework for this coursework is in [this repo](git@github.com:iidb/wing.git).
+Due to privacy issue, only the reports are made public (`projects/`). The [remaining codes](https://github.com/Ruiying-Ma/yao-db-s23-private.git) are private. The framework for this coursework is [wing](https://github.com/iidb/wing.git)
